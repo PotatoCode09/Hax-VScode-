@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/patatas/Desktop/Programming/Code/CookingRaw",
-      "program": "/home/patatas/Desktop/Programming/Code/CookingRaw/build/Debug/outDebug",
+      "cwd": "/home/patatas/Desktop/Programming/Code/codeForces",
+      "program": "/home/patatas/Desktop/Programming/Code/codeForces/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
